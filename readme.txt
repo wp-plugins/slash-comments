@@ -2,7 +2,7 @@
 Contributors: rob1n
 Tags: feed, slash
 Tested up to: 3.5
-Stable tag: 1.1
+Stable tag: 2.0
 
 **This plugin is now obsolete on account of the functionality being included with WordPress.**
 
