@@ -1,8 +1,10 @@
 === Slash Comments ===
 Contributors: rob1n
 Tags: feed, slash
-Tested up to: 2.3
-Stable tag: 1.0
+Tested up to: 3.5
+Stable tag: 1.1
+
+**This plugin is now obsolete on account of the functionality being included with WordPress.**
 
 Adds the slash:comments module to feeds, which tells the feed reader how many comments there are on the post.
 
