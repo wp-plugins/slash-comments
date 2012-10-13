@@ -4,11 +4,11 @@ Tags: feed, slash
 Tested up to: 3.5
 Stable tag: 2.0
 
-**This plugin is now obsolete on account of the functionality being included with WordPress.**
-
 Adds the slash:comments module to feeds, which tells the feed reader how many comments there are on the post.
 
 == Description ==
+
+**This plugin is now obsolete on account of the functionality being included with WordPress.**
 
 This plugin adds the [`slash:comments`](http://web.resource.org/rss/1.0/modules/slash/) tag to RSS feeds, which 
 tells feed readers such as [Google Reader](http://www.google.com/reader/) or [Bloglines](http://www.bloglines.com/) 
